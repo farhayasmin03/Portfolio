@@ -1,0 +1,18 @@
+body{
+    text-align:center;
+}
+.site-title {
+    color: black;
+    font: italic bold 35px/30px Georgia, serif;
+    margin: 30px;
+    border-bottom:10px solid black;
+
+
+}
+.topnav{
+   
+    margin-right:170px;
+    text-align:right;
+    font:italic bold 20px/20px Georgia, serif;
+   
+}
